@@ -1,0 +1,12 @@
+----------------------- Experiment 1 --------------------------
+
+installation & configaration of git create a local repository & perfrom basic oparations
+	1.install & configure git 
+	2.verify ( git --version )
+	3. git config --global user.name "youer namr"
+	   git config --global user.emali "your email "
+	4.git verify configaration 
+	  git config --list
+	5.git init
+	6. git remote add origin "URL"
+	7. perform add,commit,push,pull,fetch oparations 

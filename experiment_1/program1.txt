@@ -10,3 +10,5 @@ installation & configaration of git create a local repository & perfrom basic op
 	5.git init
 	6. git remote add origin "URL"
 	7. perform add,commit,push,pull,fetch oparations 
+
+-----------------------------------------------------------------

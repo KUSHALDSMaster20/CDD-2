@@ -1,4 +1,4 @@
------------------------ Experiment 1 --------------------------
+------------------------ Experiment 1 --------------------------
 
 installation & configaration of git create a local repository & perfrom basic oparations
 	1.install & configure git 
